@@ -1,7 +1,7 @@
 ext {
     android = [
             compileSdkVersion: 27,
-            applicationId    : "com.example.a1512qmvp.component",
+            applicationId    : "com.example.myrikao0517",
             minSdkVersion    : 15,
             targetSdkVersion : 27,
             versionCode      : 1,

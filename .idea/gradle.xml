@@ -9,6 +9,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/myjingdong2" />
+            <option value="$PROJECT_DIR$/myrikao0517" />
+            <option value="$PROJECT_DIR$/shopcart" />
+            <option value="$PROJECT_DIR$/splashactivity" />
+            <option value="$PROJECT_DIR$/webviewactivity" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

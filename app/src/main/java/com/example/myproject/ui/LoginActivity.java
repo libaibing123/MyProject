@@ -27,13 +27,14 @@ public class LoginActivity extends BaseActivity<LoginPresenter> implements Login
         super.onCreate(savedInstanceState);
 
 
-        setContentView(R.layout.activity_login);
+
         initView();
     }
     @Override
     public void inject() {
 
-databaseList();
+
+
 
     }
 

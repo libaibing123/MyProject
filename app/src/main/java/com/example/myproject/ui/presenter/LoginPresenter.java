@@ -17,7 +17,7 @@ import io.reactivex.schedulers.Schedulers;
 public class LoginPresenter extends BasePresenter<LoginContent.View> implements LoginContent.Presenter {
     private LgoinApi lgoinApi;
     @Inject
-    private LoginPresenter(LgoinApi lgoinApi){
+    public LoginPresenter(LgoinApi lgoinApi){
         this.lgoinApi=lgoinApi;
 
 

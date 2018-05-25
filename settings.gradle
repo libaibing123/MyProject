@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':myrikao0517', ':myjingdong2', ':shopcart', ':splashactivity', ':webviewactivity'
